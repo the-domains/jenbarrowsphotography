@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jenbarrowsphotography]]></title>
+        <description><![CDATA[jenbarrowsphotography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Apr 2016 13:17:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[homestead]]></title>
+            <description><![CDATA[<h1>homestead</h1>]]></description>
+            <link>undefinedhomestead/index.html</link>
+            <guid isPermaLink="false">b7fc0717-c55b-4f1f-a509-95372b00d621</guid>
+            <pubDate>Tue, 05 Apr 2016 13:17:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
